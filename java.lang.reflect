@@ -1,0 +1,15 @@
+/*Test Class and Reflect*/
+Class cls;
+--------
+cls.getPackage();
+cls.getName();
+cls.getSuperClass();
+cls.getInterface();
+--------
+cls.getConstructors();
+cls.getConsturctors(Class<?>...parameterTypes);
+cls.getDeclaredConsturctors();
+cls.getDeclaredConsturctors(Class<?>...parameterTypes);
+--------
+
+
